@@ -6,9 +6,9 @@
 
 # Descriptions
 
-  This application can simply check current weather foirecast.
-  Once user opens this app, the current locatation name and degree come up.
-  By type in the location name in search bar, user can check other locations degree and weather.
+  This application can simply check the current weather forecast.
+  Once the user opens this app, the current location name and degree come up.
+  By type in the location name in the search bar, users can check other location's degrees and weather.
 
   このアプリは簡単な天気予報を調べることができるアプリです。
   アプリを開くと現在地の名前と気温、天気が表示されます。
